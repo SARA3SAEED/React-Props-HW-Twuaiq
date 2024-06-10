@@ -1,0 +1,26 @@
+div{
+    height: 100px;
+    background-color: #4e3797;
+    z-index: 1000;
+
+}
+div ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+div img{
+    margin: 10px;
+    width: 150px;
+}
+
+li{
+    margin: 10px;
+}
+
+li:hover{
+    color: aquamarine;
+}

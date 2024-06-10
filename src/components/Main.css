@@ -1,0 +1,41 @@
+.Main-div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px;
+    background-color: rgb(227, 231, 230);
+    height: 90px;
+    color: #4e3797;
+}
+
+.Main-div h1{
+    margin: 10px;
+}
+.Main-div button{
+    margin: 20px;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+}
+
+.Main-div img{
+    background-color: #b8b7ba;
+    border: #4e3797;
+    width: 29px;
+    border-radius: 50%;
+}
+
+.main-div-img {
+    background-color: #b8b7ba;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.Main-div button:hover{
+    background-color: #4e3797;
+    color: white;
+}
